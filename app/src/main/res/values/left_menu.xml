@@ -1,0 +1,23 @@
+<resources>
+    <string name="menu1">Parents1</string>
+    <string name="menu2">Parents2</string>
+    <string name="menu3">Parents3</string>
+
+    <string-array name="menu1_childs">
+        <item>Child1</item>
+        <item>Child2</item>
+        <item>Child3</item>
+        <item>Child4</item>
+        <item>Child5</item>
+    </string-array>
+    <string-array name="menu2_childs">
+        <item>Child1</item>
+        <item>Child2</item>
+        <item>Child3</item>
+    </string-array>
+    <string-array name="menu3_childs">
+        <item>Child1</item>
+        <item>Child2</item>
+    </string-array>
+
+</resources>
